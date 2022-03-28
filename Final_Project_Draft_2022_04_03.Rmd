@@ -22,7 +22,9 @@ This is where you will describe your question of interest.  Give background info
 
 Briefly describe the data you plan to use to answer the question of interest.  Provide links to any publically available datasets. You can directly link to websites where your data is by including links in the following way: Here in the link to the [Johns Hopkins University homepage](https://www.jhu.edu/).
 
-Download your data and copy it into the data folder in this project. That way when we clone your repository for grading, we can knit your file.
+Download your data and upload it into the data folder in this project. That way when we clone your repository for grading, we can knit your file.
+
+Note: If you are using data that can't be shared publicly, please reach out to us to discuss the best way to work with your data. Do NOT upload your data to Github!
 
 ```{r data, include=FALSE}
 # eventually you will include code to load your data here
@@ -36,7 +38,6 @@ Download your data and copy it into the data folder in this project. That way wh
 * **Potential effect modifiers:**
 
 ### Directed acyclic graph (DAG)
-
 
 ### Analysis plan
 
