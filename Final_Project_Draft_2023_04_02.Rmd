@@ -1,7 +1,7 @@
 ---
 title: "Final Project: Draft 1"
 author: "Your Name"
-date: "Today's date"
+date: "April 2, 2023"
 output: html_document
 ---
 
@@ -20,7 +20,7 @@ This is where you will describe your question of interest.  Give background info
 
 ### Data
 
-Briefly describe the data you plan to use to answer the question of interest.  Provide links to any publically available datasets. You can directly link to websites where your data is by including links in the following way: Here in the link to the [Johns Hopkins University homepage](https://www.jhu.edu/).
+Briefly describe the data you plan to use to answer the question of interest.  Provide links to any publicly available datasets. You can directly link to websites where your data is by including links in the following way: Here is the link to the [Johns Hopkins University homepage](https://www.jhu.edu/){target="_blank"}.
 
 Download your data and upload it into the data folder in this project. That way when we clone your repository for grading, we can knit your file.
 
