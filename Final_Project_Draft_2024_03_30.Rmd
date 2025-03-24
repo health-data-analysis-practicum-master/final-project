@@ -1,7 +1,7 @@
 ---
 title: "Final Project: Draft 1"
 author: "Your Name"
-date: "March 31, 2024"
+date: "March 30, 2025"
 output: html_document
 ---
 
@@ -39,7 +39,7 @@ Note: If you are using data that can't be shared publicly, please reach out to u
 
 ### Directed acyclic graph (DAG)
 
-### Analysis plan
+### Statistical analysis plan
 
 What type of basic analysis could you use to address your question of interest?  Linear regression because your outcome is continuous?  Logistic regression because your outcome is binary?  How will you control for confounding in your analysis?  This section may change and be updated later as you continue with your analysis.
 
